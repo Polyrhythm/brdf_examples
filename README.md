@@ -1,5 +1,5 @@
 # brdf_examples
-Simple patch to explore popular shading models.
+Simple vvvv patch to explore popular shading models.
 
 ## Currently implemented
 *  Lambertian diffuse
